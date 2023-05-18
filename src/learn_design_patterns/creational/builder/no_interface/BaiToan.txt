@@ -1,0 +1,4 @@
+bạn đang phát triển một ứng dụng đặt phòng khách sạn
+và bạn cần xây dựng một đối tượng đặt phòng có nhiều thuộc tính tùy chọn.
+Bạn muốn có một cách linh hoạt để xây dựng đối tượng đặt phòng
+và cho phép người dùng chỉ định các thuộc tính tùy chọn theo ý muốn.

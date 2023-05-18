@@ -1,0 +1,3 @@
+tạo ra một đối tượng Configuration để quản lý cấu hình ứng dụng.
+Điều này giúp đảm bảo rằng chỉ có một bản sao cấu hình duy nhất
+và truy cập vào nó từ bất kỳ đâu trong ứng dụng.

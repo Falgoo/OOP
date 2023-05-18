@@ -1,0 +1,4 @@
+Giả sử bạn đang phát triển một ứng dụng quản lý nhà hàng và bạn cần xây dựng một hệ thống đồ uống,
+ bao gồm các loại đồ uống và các thành phần (nguyên liệu) cần thiết để tạo ra chúng.
+ Bạn muốn có thể tạo ra các đồ uống và các thành phần tương ứng cho các nhà cung cấp khác nhau.
+ Trong trường hợp này, bạn có thể sử dụng Abstract Factory pattern để giải quyết vấn đề này.
