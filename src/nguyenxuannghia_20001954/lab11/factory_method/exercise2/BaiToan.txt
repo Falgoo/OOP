@@ -1,0 +1,14 @@
+Giả sử bạn phải viết phần mềm cho trung tâm giống cây trồng phát giống các bác nông dân
+    dựa vào vị trí thửa đất của họ. Biết phần mềm đang áp dụng cho 2 khu vực:
+    là Tây nguyên và đồng bằng Sông Cửu Long.
+    Với tiêu chí
+
+    Tây nguyên: cho phép chọn bất kỳ cây công nghiệp nào trong danh sách: Cà phê, tiêu, cao su.
+    Đồng bằng sông Cửu Long: cho phép chọn tuần tự các cây ăn trái trong danh sách: Cam, Xoài, Nhãn.
+
+Yêu cầu 1: Tiêu chí chọn lựa thay đổi cho đồng bằng sông Cửu Long,
+    không ảnh hưởng đến logic xử lý tiêu chí lựa chọn của Tây Nguyên và ngược lại.
+
+Yêu cầu 2: Trong trường hợp khách hàng muốn mở rộng thị trường ra nhiều khu vực khác như:
+    Đồng bằng sông Hồng, vùng núi Đông Bắc, vùng ngập mặn ven biển, …
+    Phần mềm có thể mở rộng mà không ảnh hưởng đến logic của những khu vực trước đó.

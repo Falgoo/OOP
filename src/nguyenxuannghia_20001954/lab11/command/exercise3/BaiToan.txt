@@ -1,0 +1,2 @@
+ xây dựng một ứng dụng văn bản đơn giản.
+ Trong ứng dụng này, có khả năng undo (hoàn tác) và redo (làm lại) các thao tác chỉnh sửa văn bản.

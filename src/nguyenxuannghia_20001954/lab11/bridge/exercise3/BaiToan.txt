@@ -1,0 +1,5 @@
+Phát triển một ứng dụng đồ họa đơn giản
+và muốn có khả năng vẽ các hình học như hình vuông và hình chữ nhật
+trên các nền tảng khác nhau như Windows và Linux.
+Muốn giữ sự tách biệt giữa các hình học và nền tảng đích
+để có thể mở rộng và thay đổi dễ dàng trong tương lai.
