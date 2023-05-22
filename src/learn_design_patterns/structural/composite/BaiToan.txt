@@ -1,0 +1,3 @@
+ hệ thống quản lý tài sản của một công ty.
+ Giả sử công ty có các loại tài sản khác nhau như máy tính, máy in, bàn làm việc, và phòng họp.
+ Mỗi loại tài sản này có các thuộc tính và hành vi riêng, nhưng cùng chung một tính chất là chúng đều là các phần tử trong cấu trúc hệ thống quản lý tài sản.
