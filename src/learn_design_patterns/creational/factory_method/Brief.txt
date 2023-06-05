@@ -1,0 +1,8 @@
+Factory method là quản lý và trả về các đối tượng theo yêu cầu, giúp
+việc khởi tạo đối tượng linh hoạt hơn.
+
+- chúng ta tạo dối tượng mà không để lộ logic tạo đối tượng ở phía người dùng
+và tham chiếu đến đối tượng được tạo ra bằng cách sử dụng một interface chung.
+
+- sử dụng khi có một lớp chả với nhiều lớp con, dựa trên đầu vào trả về
+1 trong những lớp con đó.

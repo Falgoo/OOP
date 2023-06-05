@@ -1,0 +1,7 @@
+You are developing a chat application
+that allows users to communicate with each other in real-time.
+The application supports multiple chat rooms,
+and users can join different rooms to participate in group conversations.
+You need to design a mechanism that allows users to send messages to other users in the same room
+without having direct references to each other,
+and also handle the management of chat rooms and user interactions.

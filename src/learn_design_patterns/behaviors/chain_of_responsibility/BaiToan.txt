@@ -1,0 +1,7 @@
+You are developing an order processing system for an e-commerce platform.
+The system needs to handle various types of orders,
+such as regular orders, expedited orders, and international orders.
+Each type of order requires different processing steps,
+such as order validation, payment processing, and shipping.
+You need to design a flexible and scalable system that can handle different order types
+and perform the necessary processing steps in a sequential manner.

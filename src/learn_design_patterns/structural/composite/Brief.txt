@@ -1,0 +1,4 @@
+Tổng hợp những thành phần có quan hệ với nhau tạo ra thành phần lớn hơn.
+- sử dụng khi khi xử lý 1 nhóm đối tượng như xử lý 1 object.
+- sắp xếp các object theo cấu trúc cây để diễn giải 1 phần cũng như toàn bộ hệ
+phân cấp.

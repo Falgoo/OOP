@@ -1,0 +1,3 @@
+tách tính trừu tượng ra khỏi tính hiện thực.
+tức: ban đầu thiết kế 1 class với nhiều xử lý nhưng sau đó không muốn xử lý trong
+lớp đấy nữa nên tạo 1 class khác và di chuyển các xử lý đó qua lớp mới.

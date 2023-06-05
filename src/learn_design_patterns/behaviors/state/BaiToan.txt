@@ -1,0 +1,7 @@
+You are developing a vending machine application
+that dispenses different products based on user interactions.
+The vending machine has different states based on its current state of operation,
+such as "Idle", "Product Selected", "Payment Received", and "Product Dispensed".
+Each state has different behaviors and transitions.
+You need to design a mechanism that allows the vending machine
+to change its behavior dynamically based on its current state and handle state transitions seamlessly.

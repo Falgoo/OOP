@@ -1,0 +1,7 @@
+You are developing a text editor application
+that allows users to format and style text.
+The application should be able to handle large amounts of text with various formatting options,
+such as font style, size, and color.
+However, creating separate objects for each character
+or text fragment can consume a significant amount of memory.
+You need to optimize the memory usage while still allowing flexible text formatting.

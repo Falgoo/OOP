@@ -1,0 +1,3 @@
+Cho phép người dùng thêm chức năng mới vào đối tượng hiện tại mà không muốn
+ảnh hưởng đến các đối tượng khác.
+hoạt động như 1 lớp bao bọc cho lớp hiện có

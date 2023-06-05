@@ -1,0 +1,6 @@
+You are developing a drawing application that allows users to create different shapes,
+such as circles, rectangles, and triangles.
+The application needs to support various operations on shapes,
+such as calculating area, calculating perimeter, and rendering the shapes.
+However, you want to add new operations in the future without modifying the shape classes themselves.
+You need to design a mechanism that allows new operations to be added dynamically to the shapes without modifying their implementation.

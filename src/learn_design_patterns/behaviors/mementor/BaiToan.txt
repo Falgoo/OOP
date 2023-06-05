@@ -1,0 +1,4 @@
+You are developing a text editor application that allows users to write and edit documents.
+The application needs to provide an undo/redo functionality
+that allows users to revert changes they have made to a document.
+You need to design a mechanism to capture and restore the state of the document at different points in time.

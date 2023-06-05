@@ -1,0 +1,7 @@
+You are developing a remote control application for a home automation system.
+The system consists of various devices, such as lights, fans, and doors,
+which can be controlled remotely.
+The remote control should support different commands,
+ such as turning on/off devices, adjusting device settings, and executing predefined routines.
+ You need to design a flexible and extensible system
+ that can handle different commands and execute them on the appropriate devices.

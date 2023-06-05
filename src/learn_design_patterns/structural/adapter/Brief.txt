@@ -1,0 +1,4 @@
+Adapter cho phép các interface không liên quan đến nhau có thể làm việc cùng nhau.
+giữ vai trò trung gian giữa 2 lớp.
+- cung cấp một bọc ngoài tương thích cho 1 hệ thống có sẵn, có dữ liệu hành vi
+phù hợp nhưng có interface không tương thích với lớp đang viết.

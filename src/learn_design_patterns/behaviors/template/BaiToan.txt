@@ -1,0 +1,6 @@
+ You are developing a web application that generates different types of reports,
+ such as sales reports, inventory reports, and customer reports.
+ Each report has a similar structure with sections for header, body, and footer.
+ However, the content and formatting of each section may vary depending on the type of report.
+ You need to design a mechanism that provides a common template for generating reports
+ while allowing flexibility for customizing specific sections of each report.

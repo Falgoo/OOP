@@ -1,0 +1,6 @@
+You are developing a sorting algorithm library that provides different strategies for sorting arrays of integers.
+The library should allow clients to choose the sorting strategy dynamically at runtime
+based on their specific requirements.
+Each sorting strategy should encapsulate a different sorting algorithm,
+such as Bubble Sort, Quick Sort, or Merge Sort. You need to design a mechanism
+that allows clients to easily switch between different sorting strategies without modifying the client code.

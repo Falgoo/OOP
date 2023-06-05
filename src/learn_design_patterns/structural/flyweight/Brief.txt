@@ -1,0 +1,3 @@
+tái sử dụng đối tượng tương tự đã tồn tại bằng cách lưu trữ hoặc tạo đối tượng mới
+khi không tìm thấy đối tượng phù hợp.
+sử dụng khi cần tạo 1 số lượng lớn các đối tượng của 1 llopws nào đó.

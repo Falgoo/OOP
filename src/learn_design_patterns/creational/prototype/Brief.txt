@@ -1,0 +1,5 @@
+Prototype pattern có nhiệm vụ khởi tạo 1 đối tượng bằng cách clone một đối tượng đã tồn tại.
+đối tượng mới có thể giống 100% so với đôí tượng gốc, có thể thay đổi dữ liệu mà không
+ảnh hưởng tới dữ liệu gốc.
+- dùng khi việc tạo 1 đối tượng tốn nhiều chi phí và thời gian trong khi đã có 1 đối
+tượng tương tự tồn tại.

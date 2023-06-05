@@ -1,0 +1,5 @@
+ Imagine you are developing a multimedia application that can play various types of media files,
+ such as audio and video files.
+ You need to provide a simple and unified interface for the client code
+ to play different types of media files without worrying
+ about the complexities of handling different media formats and players.

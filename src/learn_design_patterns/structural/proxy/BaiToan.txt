@@ -1,0 +1,5 @@
+You are developing a web browsing application that allows users to access various websites.
+Some websites contain sensitive content or have restricted access.
+You need to implement a mechanism to control access to these websites
+and display a warning message for restricted content.
+Additionally, you want to keep track of the number of times each website is accessed.

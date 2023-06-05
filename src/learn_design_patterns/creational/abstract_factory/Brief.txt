@@ -1,0 +1,3 @@
+Abstract factory là phương pháp tạo ra một lớp factory cha để tạo ra các factory.
+là cấp cao hơn của factory method.
+có nhiệm vụ tạo ra 1 factory của các object liên quan đến nhau.

@@ -1,0 +1,2 @@
+Singleton đảm bảo chỉ duy nhất 1 instance được tạo và nó sẽ cung cấp một method
+để có thể truy xuất thể hiện duy nhất mọi lúc mọi nơi trong chương trình.

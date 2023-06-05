@@ -1,0 +1,8 @@
+You are developing a weather monitoring application
+that needs to notify multiple displays whenever the weather conditions change.
+The application should support adding and removing displays dynamically,
+and each display should receive updates
+whenever there is a change in the weather data.
+You need to design a mechanism that allows the displays
+to be notified automatically when the weather conditions change
+without tightly coupling them to the weather data source.

@@ -1,0 +1,9 @@
+Builder pattern thiết kế đối tượng được tạo để xây dựng một đối tượng phức
+tạp bằng cách sử dụng cấc đối tượng đơn giản và sử dụng tiếp cận từng bước.
+- Khắc phục 1 số nhược điểm của factory pattern khi object có nhiều thuộc tính.
+- Vấn đề với factory pattern và abstract factory khi object có nhiều thuộc tính:
+    - quá nhiều tham số phải truyền vào từ phía client tới factory class.
+    - một số tham số có thể tùy chọn nhưng trong factory pattern, phải gửi all tham số,
+    nếu không truyền sẽ truyền là null.
+    - nếu 1 object có quá nhiều thuộc tính sẽ phức tạp.
+

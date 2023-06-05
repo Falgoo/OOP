@@ -1,0 +1,7 @@
+You are developing a music streaming application
+that allows users to create playlists and play their favorite songs.
+The application needs to provide a way to iterate over the songs in a playlist
+so that the user can navigate through the playlist and play the songs sequentially
+or in a specific order.
+You need to design a mechanism that allows iteration over the songs in a playlist
+without exposing the underlying data structure or implementation details.
